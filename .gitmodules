@@ -1,0 +1,3 @@
+[submodule "libx86emu"]
+	path = libx86emu
+	url = https://github.com/wfeldt/libx86emu.git
